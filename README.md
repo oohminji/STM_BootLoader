@@ -1,5 +1,5 @@
 # STM32기반 BootLoader
-
+**세미나 발표 자료** : [stm부트로더](https://docs.google.com/presentation/d/1aQPwUHy2htVaIc0hbfxVewVQ1QZWxDCkgHesAlucqaY/edit?slide=id.p1&pli=1#slide=id.p1)
 ## BootLoader 란?
 > 1. 컴퓨터 시스템이 부팅될 때 실행되는 프로그램<br>
 > 2. 부트로더가 운영체제를 로드하고 실행하기 전, 하드웨어 초기화, 시스템 구성, 에러 처리, 운영체제 로딩 담당
